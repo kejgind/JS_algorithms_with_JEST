@@ -1,2 +1,7 @@
-# JS_algorithms_with_JEST
-JavaScript algorithms from freecodecamp with JEST
+# JS algorithms with JEST
+
+This repository serves as a playground for solving `freeCodeCamp` `JavaScript` algorithms with the help of `JEST` (Delightful JavaScript Testing).
+
+For each algorithm will be created separate folder, which will have its own readme file (what problem to solve and some test examples to check if it works).
+
+List of algorithms:

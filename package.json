@@ -1,0 +1,29 @@
+{
+  "name": "js_algorithms_with_jest",
+  "version": "1.0.0",
+  "description": "freeCodeCamp JavaScript algorithms with JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kejgind/JS_algorithms_with_JEST.git"
+  },
+  "keywords": [
+    "javascrip",
+    "jest",
+    "algorithms",
+    "freecodecamp"
+  ],
+  "author": "Krzysztof Garbowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kejgind/JS_algorithms_with_JEST/issues"
+  },
+  "homepage": "https://github.com/kejgind/JS_algorithms_with_JEST#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^22.4.3"
+  }
+}
