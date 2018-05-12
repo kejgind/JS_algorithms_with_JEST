@@ -7,3 +7,4 @@ For each algorithm will be created separate folder, which will have its own read
 List of algorithms:
 
 1. Reverse a string.
+1. Factorialize a Number
