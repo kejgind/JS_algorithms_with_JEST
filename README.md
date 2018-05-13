@@ -8,3 +8,4 @@ List of algorithms:
 
 1. Reverse a string.
 1. Factorialize a Number
+1. Check for Palindromes
