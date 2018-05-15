@@ -10,3 +10,4 @@ List of algorithms:
 1. Factorialize a Number
 1. Check for Palindromes
 1. Find the Longest Word in a String
+1. Title Case a Sentence
