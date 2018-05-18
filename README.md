@@ -13,3 +13,4 @@ List of algorithms:
 1. [Title Case a Sentence](05_title_case_a_sentence)
 1. [Return Largest Numbers in Arrays](06_largest_numbers_in_arrays)
 1. [Confirm the Ending](07_confirm_the_ending)
+1. [Repeat a string repeat a string](08_repeat_a_string)
