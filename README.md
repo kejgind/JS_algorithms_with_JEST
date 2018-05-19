@@ -14,3 +14,4 @@ List of algorithms:
 1. [Return Largest Numbers in Arrays](06_largest_numbers_in_arrays)
 1. [Confirm the Ending](07_confirm_the_ending)
 1. [Repeat a string repeat a string](08_repeat_a_string)
+1. [Truncate a string](09_truncate_a_string)
