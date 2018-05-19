@@ -15,3 +15,5 @@ List of algorithms:
 1. [Confirm the Ending](07_confirm_the_ending)
 1. [Repeat a string repeat a string](08_repeat_a_string)
 1. [Truncate a string](09_truncate_a_string)
+1. [Chunky Monkey](10_chunky_monkey)
+1. [Slasher Flick](11_slasher_flick)
