@@ -17,3 +17,4 @@ List of algorithms:
 1. [Truncate a string](09_truncate_a_string)
 1. [Chunky Monkey](10_chunky_monkey)
 1. [Slasher Flick](11_slasher_flick)
+1. [Mutations](12_mutations)
