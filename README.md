@@ -19,3 +19,4 @@ List of algorithms:
 1. [Slasher Flick](11_slasher_flick)
 1. [Mutations](12_mutations)
 1. [Falsy Bouncer](13_falsy_bouncer)
+1. [Seek and Destroy](14_seek_and_destroy)
