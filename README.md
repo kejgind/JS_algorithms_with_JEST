@@ -18,3 +18,4 @@ List of algorithms:
 1. [Chunky Monkey](10_chunky_monkey)
 1. [Slasher Flick](11_slasher_flick)
 1. [Mutations](12_mutations)
+1. [Falsy Bouncer](13_falsy_bouncer)
