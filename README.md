@@ -23,3 +23,4 @@ List of algorithms:
 1.  [Where do I belong](15_where_do_i_belong)
 1.  [Caesars Cipher](16_ceasars_cipher)
 1.  [Sum All Numbers in a Range](17_sum_all_numbers_in_a_range)
+1.  [Diff Two Arrays](18_diff_two_arrays)
