@@ -28,3 +28,4 @@ List of algorithms:
 1.  [Wherefore art thou](20_wherefore_art_thou)
 1.  [Search and Replace](21_search_and_replace)
 1.  [Pig Latin](22_pig_latin)
+1.  [DNA Pairing](23_dna_pairing)
