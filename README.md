@@ -30,3 +30,5 @@ List of algorithms:
 1.  [Pig Latin](22_pig_latin)
 1.  [DNA Pairing](23_dna_pairing)
 1.  [Missing letters](24_missing_letters)
+1.  [Boo who](25_boo_who)
+1.  [Sorted Union](26_sorted_union)
