@@ -4,6 +4,40 @@ This repository serves as a playground for solving `freeCodeCamp` `JavaScript` a
 
 For each algorithm will be created separate folder, which will have its own readme file (what problem to solve and some test examples to check if it works).
 
+You can download or use `git clone` for this repository. Navigate to folder in which you wanna clone this repository and use command as shown below:
+
+```
+git clone https://github.com/kejgind/JS_algorithms_with_JEST.git
+```
+
+After cloning or downloading this repository navigate to this folder and use `npm` to install all developer dependencies used by this project (`eslint` and `jest`).
+
+```
+npm i -D
+```
+
+To run all test suites use:
+
+```
+npm test
+```
+
+If you wanna run specific test use:
+
+```
+npm -- test [name of specific .js file here]
+```
+
+For example:
+
+```
+npm test -- reverseString
+```
+
+This will run test suite specifically for `Reverse a string` algorithm.
+
+---
+
 List of algorithms:
 
 1.  [Reverse a string.](01_reverse_a_string)
@@ -33,3 +67,4 @@ List of algorithms:
 1.  [Boo who](25_boo_who)
 1.  [Sorted Union](26_sorted_union)
 1.  [Convert HTML Entities](27_convert_htm_entities)
+1.  [Spinal Tap Case](28_spinal_tap_case)
