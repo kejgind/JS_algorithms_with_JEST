@@ -32,3 +32,4 @@ List of algorithms:
 1.  [Missing letters](24_missing_letters)
 1.  [Boo who](25_boo_who)
 1.  [Sorted Union](26_sorted_union)
+1.  [Convert HTML Entities](27_convert_htm_entities)
