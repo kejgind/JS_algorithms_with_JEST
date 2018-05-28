@@ -71,3 +71,4 @@ List of algorithms:
 1.  [Sum All Odd Fibonacci Numbers](29_sum_all_odd_fibonacci_numbers)
 1.  [Sum All Primes](30_sum_all_primes)
 1.  [Smallest Common Multiple](31_smallest_common_multiple)
+1.  [Finders Keepers](32_finders_keepers)
