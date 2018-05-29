@@ -73,3 +73,4 @@ List of algorithms:
 1.  [Smallest Common Multiple](31_smallest_common_multiple)
 1.  [Finders Keepers](32_finders_keepers)
 1.  [Drop it](33_drop_it)
+1.  [Steamroller](34_steamroller)
