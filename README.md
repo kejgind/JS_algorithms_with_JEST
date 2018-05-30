@@ -75,3 +75,4 @@ List of algorithms:
 1.  [Drop it](33_drop_it)
 1.  [Steamroller](34_steamroller)
 1.  [Binary Agents](35_binary_agents)
+1.  [Everything Be True](36_everything_be_true)
