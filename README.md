@@ -76,3 +76,4 @@ List of algorithms:
 1.  [Steamroller](34_steamroller)
 1.  [Binary Agents](35_binary_agents)
 1.  [Everything Be True](36_everything_be_true)
+1.  [Arguments Optional](37_arguments_optional)
