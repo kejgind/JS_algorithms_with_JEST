@@ -78,3 +78,4 @@ List of algorithms:
 1.  [Everything Be True](36_everything_be_true)
 1.  [Arguments Optional](37_arguments_optional)
 1.  [Validate US Telephone Numbers](38_validate_us_telephone_numbers)
+1.  [Record Collection](39_record_collection)
