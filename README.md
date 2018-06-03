@@ -79,3 +79,4 @@ List of algorithms:
 1.  [Arguments Optional](37_arguments_optional)
 1.  [Validate US Telephone Numbers](38_validate_us_telephone_numbers)
 1.  [Record Collection](39_record_collection)
+1.  [Symmetric Difference](40_symmetric_difference)
