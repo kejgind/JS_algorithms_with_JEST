@@ -81,3 +81,4 @@ List of algorithms:
 1.  [Record Collection](39_record_collection)
 1.  [Symmetric Difference](40_symmetric_difference)
 1.  [Exact Change](41_exact_change)
+1.  [No repeats please](42_no_repeats_please)
